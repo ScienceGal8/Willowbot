@@ -1,0 +1,8 @@
+{
+    "name": "Professor-Willow",
+    "version": "alpha 0.0.1",
+    "description": "A Pokemon Go raid-coordination bot",
+    "main": "bot.js",
+    "author": "Marissa 'ScienceGal8' Lee"
+    "dependencies": {}
+}
